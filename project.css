@@ -1,16 +1,16 @@
 html{scroll-behavior: smooth;}
 @font-face{
     font-family: 'DancingScript';
-    src: url(./fonts/DancingScript-Regular.ttf);
+    src: url(./DancingScript-Regular.ttf);
 
 }
 @font-face{
     font-family: 'Arvo-Bold';
-    src: url(./fonts/Arvo-Bold.ttf);
+    src: url(./Arvo-Bold.ttf);
 
 }
 body{
-    background-image: url('./images/One-piece.jpg');
+    background-image: url('./One-piece.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
